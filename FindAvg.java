@@ -10,6 +10,7 @@ public class FindAvg {
 		}
 		int avg =total/count;
 		System.out.println(avg);
+		System.out.println("changed");
 		
 			
 			
